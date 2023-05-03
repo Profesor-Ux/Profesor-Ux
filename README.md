@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Profesor-Ux
-- 👀 I’m interested in cooding
+- 👀 I’m interested in coding && Programming
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
